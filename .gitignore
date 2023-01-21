@@ -1,4 +1,8 @@
 testenv/*
+TP1/env*
+TP2/env*
+TP3/env*
+TP4/env*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
