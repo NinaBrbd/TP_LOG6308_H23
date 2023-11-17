@@ -1,5 +1,7 @@
 # LOG6308
 
+Regroupement des TPs réalisés dans le cadre du cours LOG6308 à l'hiver 2023.
+
 ![Python](https://img.shields.io/badge/Python-blue)![Jup](https://img.shields.io/badge/JupyterNotebook-orange)
 
 ## Installer Python
